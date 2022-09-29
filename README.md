@@ -1,16 +1,13 @@
-### Hi there 👋
+### Привет! Меня зовут Джамал. 👋
+#### Я начинающий фронтенд разработчик.
 
-<!--
-**Puxichh/Puxichh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💪На данный момент обучаюсь в Яндекс.Практикуме
+- 📄Хочу найти работу, чтобы приобрести опыт и стать профессионалом
+- 🍙В будущем хочу стать Full-stack разработчиком
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💣Мой стек:**
+<br>
+<br>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html" height="40">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css" height="40">
+<img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" alt="git" height="32">
