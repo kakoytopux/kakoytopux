@@ -7,7 +7,6 @@
 
 **💣Мой стек:**
 <br>
-<br>
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css" height="40">
 <img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" alt="git" height="32">
