@@ -6,7 +6,10 @@
 - 🍙В будущем хочу стать Full-stack разработчиком
 
 **💣Мой стек:**
-<br>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="html" height="40">
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="css" height="40">
-<img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" alt="git" height="32">
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
